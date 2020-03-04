@@ -2,6 +2,6 @@
 
 The first programs I wrote in the first programming language I learned.
 
-## Authors
+### Authors
 
-Laura Whalen
+**Laura Whalen**
