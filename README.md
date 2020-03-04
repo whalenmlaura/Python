@@ -1,2 +1,7 @@
-# Python
-My first programs in the first programming language I learned; Python
+## Python
+
+The first programs I wrote in the first programming language I learned.
+
+## Authors
+
+Laura Whalen
